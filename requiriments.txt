@@ -1,8 +1,0 @@
-pandas
-openpyxl
-matplotlib
-seaborn
-selenium
-webdriver-manager
-beautifulsoup4
-category_encoders
